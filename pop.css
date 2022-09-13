@@ -1,0 +1,26 @@
+#ko{
+    width:100px;
+    length:95px;
+    color:rgb(104, 0, 0);
+    background-color:aquamarine;
+    font-size:30px;
+}
+
+#pop{
+    width:100px;
+    length:95px;
+    color:rgb(104, 0, 0);
+    background-color:aquamarine;
+    font-size:30px;
+}
+
+#di
+{
+background-image: linear-gradient(to right top, #2508ff, #6001a4, #f409ec, #a006ff, #ff08b9);
+}
+
+#opu
+{
+background-image: linear-gradient(to right top, #d2ff08, #ffc005, #fdff72, #a2ad0a, #eae055);
+}
+

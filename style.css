@@ -1,0 +1,17 @@
+h1{
+text-align: center;
+font-size:100px;
+}
+
+button{
+    width:100px;
+    length:95px;
+    color:rgb(104, 0, 0);
+    background-color:aquamarine;
+    font-size:30px;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #0019bc, #047622, #9fffa1, #a006ff, #00cbe2);
+}
